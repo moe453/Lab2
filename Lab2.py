@@ -10,4 +10,10 @@ def function ():
     print('Variable1 = ' + sys.argv[1])
     print('Variable2 = ' + str(age))
     print('The script and Variables used are:' + sys.argv)
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
     
